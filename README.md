@@ -1,2 +1,3 @@
 # hello-world
-test
+Hi!
+Testing how to make commits.
